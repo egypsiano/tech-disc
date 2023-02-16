@@ -24,4 +24,5 @@ Here it's my [Colab code](https://github.com/egypsiano/tech-disc/blob/main/Tech_
 
 ### Image
 
-https://user-images.githubusercontent.com/7405832/219300136-03b79501-84a2-4e13-9845-6025aea9483a.png
+![Screen Shot 2023-02-16 at 9 44 32 AM](https://user-images.githubusercontent.com/7405832/219300136-03b79501-84a2-4e13-9845-6025aea9483a.png)
+
